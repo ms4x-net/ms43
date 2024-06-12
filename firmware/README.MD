@@ -5,4 +5,6 @@
 - There are no factory 2.8L calibrations for MS43, so we created one ourselves from MS42 and an early MS45.0 prototype calibration.
 
 **Download**
-- M54B30: [EU4](https://github.com/ms4x-net/ms43/blob/main/firmware/Siemens_MS43_MS430069_E36Z3_M54B30_EU4_LHD.bin)
+
+- **E36/7 Z3-series**
+-- M54B30: [EU4](https://github.com/ms4x-net/ms43/blob/main/firmware/Siemens_MS43_MS430069_E36Z3_M54B30_EU4_LHD.bin)
