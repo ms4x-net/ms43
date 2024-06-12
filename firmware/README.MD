@@ -7,4 +7,4 @@
 **Download**
 
 - **E36/7 Z3-series**
--  M54B30: [EU4](https://github.com/ms4x-net/ms43/blob/main/firmware/Siemens_MS43_MS430069_E36Z3_M54B30_EU4_LHD.bin)
+  - M54B30: [EU4](https://github.com/ms4x-net/ms43/blob/main/firmware/Siemens_MS43_MS430069_E36Z3_M54B30_EU4_LHD.bin)
