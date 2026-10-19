@@ -29,17 +29,6 @@ Definition files, stock firmware and background documentation for the **Siemens 
 3. Optional: apply patches from the [Community Patchlist](https://www.ms4x.net/index.php?title=TunerPro_MS43_Community_Patchlist).
 4. Keep an untouched backup of the original read.
 
-## Changelog (definitions)
-
-| Version | Date |
-|---|---|
-| v1.14 | 2026-01-08 |
-| v1.13 | 2025-07-26 |
-| v1.12 | 2023-01-16 |
-| v1.11 | 2022-07-19 |
-
-Details: [`definitions/README.md`](definitions/README.md)
-
 ## Contributing
 
 Bug in a definition or missing firmware variant? Please [open an issue](https://github.com/ms4x-net/ms43/issues).
